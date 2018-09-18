@@ -1,0 +1,498 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#body_container
+{
+    width: 1000px;
+    height: 2100px;
+    /* background-color: seagreen; */
+    margin: auto;
+}
+#body_container_margin
+{
+    width: 960px;
+    height: 1683px;
+    /* background-color: pink; */
+    margin: auto;
+}
+#logo_menu_main
+{
+    padding-top: 40px;
+    padding-bottom: 35px;
+    height: 60px;
+    width: 960px;
+    /* background-color: silver; */
+}
+.composition_logo
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32pt;
+    color: #505050;
+    float: left;
+
+}
+.composition_logo1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26pt;
+    color: #505050;
+    padding-top: 5px;  
+}
+#LOGO_SIDE
+{
+    width: 340px;
+    height: 60px;
+    /* background-color: aqua; */
+    float: left;
+}
+#menu_side
+{
+    width: 620px;
+    height: 60px;
+    /* background-color: sandybrown; */
+    float: left;
+}
+.logo_story
+{
+    font-size: 12px;
+    font-family: Georgia;
+    color: #666666;
+    padding-top: 8px;
+    padding-left: 5px;
+}
+#menu_side_border
+{
+    border: 1px solid #e2494b;
+    background-color: #e2494b;
+    width: 618px;
+    height: 55px;
+    border-radius: 7px;
+}
+ul li{
+    margin-left: 12px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11pt;
+}
+.hr_class
+{
+    width: 960px;
+    background-color:  #ee9395;
+    border: 0px;
+    height: 0.5px;
+}
+#main_story
+{
+    padding-top: 40px;
+    height: 90px;
+    width: 715px;
+    background-color: white;
+    margin: auto;
+}
+.main_story_write
+{
+    font-size: 22px;
+    text-align: center;
+    color: #333333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main_image
+{
+    width: 960px;
+    height: 350px;
+    padding-bottom: 70px;
+}
+.horizantal_line
+{
+    width: 960px;
+    background-color:  #ee9395;
+    border: 0px;
+    height: 1px; 
+
+}
+#services_icon
+{
+    width: 177px;
+    height: 30px;
+    margin: auto;
+    border: 1px solid #e2494b;
+    background-color: #e2494b;
+    border-radius: 8px;
+}
+.write_services
+{
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 5px;
+}
+#services_container
+{
+    width: 960px;
+    height: 200px;
+    padding-top: 36px;
+    /* background-color: silver; */
+}
+#service1
+{
+    width: 305px;
+    height: 200px;
+    /* background-color: sandybrown; */
+    float: left;
+}
+#service2
+{
+    width: 305px;
+    height: 200px;
+    /* background-color:seagreen; */
+    padding-left: 22px;
+    float: left;
+}
+#service3
+{
+    width: 305px;
+    height: 200px;
+    /* background-color:skyblue; */
+    padding-left: 22px;
+    float: left;
+}
+#service1_logo
+{
+    width: 33px;
+    height: 34px;
+    background-color: #333333;
+    float: left;
+    
+}
+#service1_title
+{
+    margin-left: 15px;
+    width: 180px;
+    height: 34px;
+    /* background-color: pink; */
+    float: left;
+
+}
+.service1_title
+{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #666666;
+    text-align: center;
+    padding-top: 6px;
+}
+#service1_story
+{
+    padding-top: 10px;
+    height: 81px;
+    width: 305px;
+    /* background-color:skyblue; */
+}
+#logo_title
+{
+    width: 300px;
+    height: 34px;
+    /* background-color: aquamarine; */
+}
+.service1_story_write
+{
+    color: #979797;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+#read_more
+{
+    padding-top: 10px;
+}
+.read_more
+{
+    color: #e2494b;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.read_more:hover
+{
+    text-decoration: underline;
+    color: #e2494b;
+}
+#team_container
+{
+    width: 960px;
+    height: 347px;
+    padding-top: 38px;
+    /* background-color: silver; */
+}
+#player1_container
+{
+    width: 176px;
+    height: 347px;
+    /* background-color: aqua; */
+    float: left;
+}
+#player2_container
+{
+width: 175px;
+height: 347px;
+padding-left: 21px;
+/* background-color: #ee9395; */
+float: left;
+}
+.player1_image
+{
+    width: 175px;
+    height: 175px;
+    padding-bottom: 12px;
+}
+.player_name
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: #979797;
+    padding-bottom: 10px;
+}
+.player_story
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: #979797;  
+    padding-bottom: 14px;
+}
+.view_profile
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px; 
+    color: #e2494b;
+    text-decoration: none;
+}
+.view_profile:hover
+{
+    text-decoration: underline;
+    color: #e2494b;
+}
+#work_container
+{
+    width: 960px;
+    height: 212px;
+    padding-top: 38px;
+    /* background-color: skyblue; */
+}
+.work_image
+{
+    width: 300px;
+    height: 160px;
+}
+#work_image_one
+{
+ width: 300px;
+ height: 160px;
+ /* background-color: pink; */
+ float: left
+}
+#work_image_two
+{
+ width: 300px;
+ height: 160px;
+ /* background-color:silver; */
+ padding-left: 30px;
+ float: left;
+}
+#footer
+{
+    width: 1000px;
+    height: 417px;
+    background-color: #e2e2e2;
+
+}
+#footer_margin
+{
+    width: 960px;
+    height: 377px;
+    margin: auto;
+    /* background-color:indianred; */
+    padding-top: 40px;
+}
+#footer_1st_container
+{
+    width: 470px;
+    height: 314px;
+    /* background-color: skyblue; */
+    float: left;
+}
+#footer_2nd_container
+{
+    width: 195px;
+    height: 314px;
+    /* background-color: grey; */
+    padding-left: 20px;
+    float: left;
+}
+#footer_3rd_container
+{
+    width: 255px;
+    height: 314px;
+    /* background-color:white; */
+    padding-left: 20px;
+    float: left;
+}
+.footer_1st_title
+{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
+#image_story_footer
+{
+    padding-top: 20px;
+    height: 108px;
+    width: 470px;
+    /* background-color: pink; */
+}
+#image_border
+{
+    width: 106px;
+    height: 108px;
+    border: 1px solid #333333;
+    float: left;
+}
+#story_1st_footer
+{
+    width: 345px;
+    height: 108px;
+    padding-left: 17px;
+    /* background-color: darkkhaki; */
+    float: left;
+}
+.img_footer
+{
+width: 95px;
+height: 95px;
+padding-left: 6px;
+padding-top: 6px;
+}
+#footer_story_tittle
+{
+    padding-top: 10px;
+}
+.footer_story_tittle
+{
+    color: #e2494b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+#footer_story_write
+{
+    padding-top: 15px;
+}
+.footer_story_write
+{
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #999999;
+}
+#company_detail
+{
+    padding-top: 20px;
+}
+.company_detail
+{
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #999999;  
+}
+#company_tele
+{
+    padding-top: 22px;
+}
+.company_detail a
+{
+    color: #e2494b;
+    text-decoration: none;
+}
+.company_detail a:hover
+{
+    text-decoration: underline;
+    color: #e2494b;
+}
+#input_name
+{
+    padding-top: 20px;
+}
+.input_name
+{
+    color: #989898;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 0PX;
+    height: 31px;
+    width: 245px;
+    padding-left: 10px;
+    border-radius: 8px;
+}
+#input_email
+{
+    padding-top: 10px;
+}
+.input_message
+{
+    color: #989898;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 0PX;
+    height: 111px;
+    width: 245px;
+    padding-left: 10px;
+    border-radius: 8px;
+}
+button
+{
+    border-radius: 8px;
+    background-color: #e2494b;
+    color: white;
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+    border: 0PX;
+}
+.btn_text
+{
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+#after_last_hr
+{
+    padding-top: 18px;
+}
+#company_detail1
+{
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #999999; 
+}
+#company_detail2
+{
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #999999; 
+    float: left;
+}
+.company_detail2
+{
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #999999; 
+    float: right;
+}
+
+
